@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessagingTutorial</string>
+    <string name="main_text">Welcome to Main Activity</string>
+    <string name="result_text">Welcome to the Result Activity</string>
+</resources>
